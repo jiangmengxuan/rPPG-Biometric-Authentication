@@ -1,0 +1,12 @@
+{
+  "K": 4,
+  "T": 600,
+  "delta_t": 300,
+  "fs": 60,
+  "in_ch": 3,
+  "lr": 1e-05,
+  "result_dir": "./results/default",
+  "seed": 341256031,
+  "total_epoch": 30,
+  "train_exp_name": "default"
+}
